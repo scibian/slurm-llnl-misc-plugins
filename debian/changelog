@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.0.0sci8u1) scibian8; urgency=medium
+
+  * Import Debian version 1.0.0
+
+ -- Thomas HAMEL <thomas-t.hamel@edf.fr>  Tue, 20 Aug 2019 14:34:42 +0200
+
 slurm-llnl-misc-plugins (1.0.0) unstable; urgency=medium
 
   * admin-utils: Add slurm-check-cgroups-nojob
