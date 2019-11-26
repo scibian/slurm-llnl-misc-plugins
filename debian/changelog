@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.0.3sci8u1) scibian8; urgency=medium
+
+  * Import Debian version 1.0.3
+
+ -- Thomas HAMEL <thomas-t.hamel@edf.fr>  Tue, 26 Nov 2019 14:45:57 +0100
+
 slurm-llnl-misc-plugins (1.0.3) unstable; urgency=medium
 
   [ Thomas HAMEL ]
