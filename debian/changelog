@@ -1,3 +1,11 @@
+slurm-llnl-misc-plugins (1.2.3-0sci8u1) scibian8; urgency=medium
+
+  * Change format from native to quilt
+  * Import upstream version 1.2.3
+  * Migrate /etc/{slurm-llnl→slurm}
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Fri, 08 Jan 2021 11:46:33 +0100
+
 slurm-llnl-misc-plugins (1.0.4sci8u1) scibian8; urgency=medium
 
   * Import Debian version 1.0.4
