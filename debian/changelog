@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.6-0sci9u1) scibian9; urgency=medium
+
+  * Import upstream version 1.2.6
+
+ -- Romaric Kanyamibwa <romaric-externe.kanyamibwa@edf.fr>  Tue, 27 Apr 2021 12:37:43 +0200
+
 slurm-llnl-misc-plugins (1.2.3-0sci9u1) scibian9; urgency=medium
 
   * Change format from native to quilt
