@@ -5,6 +5,20 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## Unrelease
 
+## [1.2.6] - 2021-02-26
+### Changed
+- taskprolog: imporive renewer for canonical cache
+
+## [1.2.5] - 2021-02-25
+### Added
+- taskepilog: Add logging at the end of tasks
+### Changed
+- taskprolog: imporive renewer for canonical cache
+
+## [1.2.4] - 2021-02-18
+### Changed
+- taskprolog: lustre add renewer for canonical ccache
+
 ## [1.2.3] - 2021-01-08
 ### Changed
 - Use /etc/slurm on all Linux distributions
