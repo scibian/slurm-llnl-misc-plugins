@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## Unrelease
 
+## [1.2.7] - 2021-04-28
+### Changed
+- epilog: log meaningful error in cases epilog exits prematurely
+
 ## [1.2.6] - 2021-02-26
 ### Changed
 - taskprolog: imporive renewer for canonical cache
