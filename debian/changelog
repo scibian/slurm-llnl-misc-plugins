@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.7-0sci9u2) scibian9; urgency=medium
+
+  * slurm-llnl-setup-mysql depends python3 & python3-mysqlib
+
+ -- Tàzio Gennuso <tazio-externe.gennuso@edf.fr>  Mon, 10 May 2021 15:37:15 +0200
+
 slurm-llnl-misc-plugins (1.2.7-0sci9u1) scibian9; urgency=medium
 
   * Import upstream version 1.2.7
