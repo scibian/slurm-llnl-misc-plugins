@@ -62,8 +62,8 @@ Architecture: all
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
- python,
- python-mysqldb
+ python3,
+ python3-mysqldb
 Description: MySQL setup script for SlurmDBD
  This package provides a Python script which setup MySQL server, creates the
  databases and gives all needed grants to the slurm user of SlurmDBD. It is
