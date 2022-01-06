@@ -1,0 +1,2 @@
+# no better place found to store backups by default
+slurmdbd-backup: non-standard-dir-in-var var/backups/
