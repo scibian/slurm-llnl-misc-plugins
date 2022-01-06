@@ -3,11 +3,12 @@ Packaged-Date: Wed, 16 Oct 2013 10:00:00 +0200
 
 Files: debian/*
 Copyright: © 2013 Mehdi Dogguy <mehdi@debian.org>
-           © 2017 Scibian Project <legal@scibian.org>
+           © 2017-2022 Scibian Project <legal@scibian.org>
 License: GPL-2
 
 Files: *
 Copyright: © 2013 Mehdi Dogguy <mehdi@debian.org>
+           © 2017-2022 Scibian Project <legal@scibian.org>
 License: GPL-2
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
