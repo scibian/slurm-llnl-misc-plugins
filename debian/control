@@ -2,8 +2,8 @@ Source: slurm-llnl-misc-plugins
 Priority: optional
 Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends:
- debhelper (>= 8)
-Standards-Version: 3.9.5
+ debhelper (>= 12)
+Standards-Version: 3.9.8
 Section: doc
 Vcs-Git: https://github.com/scibian/slurm-llnl-misc-plugins.git
 Vcs-Browser: https://github.com/scibian/slurm-llnl-misc-plugins
@@ -80,7 +80,7 @@ Depends:
 Breaks: slurm-llnl-job-submit-plugin (<< 0.7.13)
 Replaces: slurm-llnl-job-submit-plugin (<< 0.7.13)
 Description: Wcceys setup script for SlurmDBD
- This package provides a Shell script which add wckeys into Slurmdbd 
+ This package provides a Shell script which add wckeys into Slurmdbd
  database. It assembles codes (one by one) from 2 files to create a
  wckey and insert it into the slurm database.
 
