@@ -1,5 +1,11 @@
 slurm-llnl-misc-plugins (1.2.7-0sci11u1) scibian11; urgency=medium
 
+  * Import upstream version 1.2.12
+
+ -- Mathieu Chouquet-Stringer <mathieu-externe.chouquet-stringer@edf.fr>  Wed, 06 Apr 2022 17:00:40 +0200
+
+slurm-llnl-misc-plugins (1.2.7-0sci11u1) scibian11; urgency=medium
+
   * Bump d/compat from 8 to 11
   * Bump copyright year
   * Add and upgrade deps
