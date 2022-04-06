@@ -1,4 +1,4 @@
-slurm-llnl-misc-plugins (1.2.12-0sci11u1) scibian11; urgency=medium
+slurm-llnl-misc-plugins (1.2.12-0sci11u2) scibian11; urgency=medium
 
   * Bump compat to 12
   * Updated deps
