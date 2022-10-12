@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.12-0sci11u3) scibian11; urgency=medium
+
+  * bump to python3-pyslurm
+
+ -- Kwame Amedodji <kwame-externe.amedodji@edf.fr>  Wed, 12 Oct 2022 10:58:18 +0200
+
 slurm-llnl-misc-plugins (1.2.12-0sci11u2) scibian11; urgency=medium
 
   * Bump compat to 12
