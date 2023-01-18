@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.14-0sci9u3) scibian9; urgency=medium
+
+  * New *real* upstream release 1.2.14
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Wed, 18 Jan 2023 15:12:37 +0100
+
 slurm-llnl-misc-plugins (1.2.14-0sci9u2) scibian9; urgency=medium
 
   * bump to python3-pyslurm
