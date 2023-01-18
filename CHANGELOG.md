@@ -5,9 +5,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
 
-## [1.2.14] - 2022-10-07
+## [1.2.14] - 2023-01-18
+### Added
+- wckeys: validate format of project/application codes against maximum lengths
+
 ### Fixed
-- align debian version with upstream one!
+- wckeys: fix insertion on empty SlurmDBD wckey table (#8)
+- wckeys: make curl fail when HTTP server does not respond status code 200 (ok)
 
 ## [1.2.13] - 2022-05-18
 ### Fixed
