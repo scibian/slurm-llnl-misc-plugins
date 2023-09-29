@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.16-0sci9u1) scibian9; urgency=medium
+
+  * Non upstream release 1.2.16
+
+ -- Mathieu Chouquet-Stringer <mathieu-externe.chouquet-stringer@edf.fr>  Fri, 29 Sep 2023 15:14:15 +0200
+
 slurm-llnl-misc-plugins (1.2.14-0sci9u3) scibian9; urgency=medium
 
   * New *real* upstream release 1.2.14
