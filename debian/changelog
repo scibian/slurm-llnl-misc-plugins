@@ -1,3 +1,17 @@
+slurm-llnl-misc-plugins (1.2.16-0sci10u1) scibian10; urgency=medium
+
+  [ Kwame Amedodji ]
+  * rollback from 1.2.7
+  * New upstream version 1.2.14
+
+  [ Rémi Palancher ]
+  * New upstream version 1.2.14
+
+  [ Kwame Amedodji ]
+  * New upstream version 1.2.16
+
+ -- Kwame Amedodji <kwame-externe.amedodji@edf.fr>  Wed, 13 Dec 2023 20:17:33 +0100
+
 slurm-llnl-misc-plugins (1.2.12-0sci10u3) scibian10; urgency=medium
 
   * bump to python3-pyslurm
