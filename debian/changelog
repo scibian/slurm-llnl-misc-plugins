@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.17-0sci11u1) scibian11; urgency=medium
+
+  * New upstream version 1.2.17
+
+ -- Saran KABA <saran-externe.kaba@edf.fr>  Mon, 01 Jul 2024 14:33:36 +0200
+
 slurm-llnl-misc-plugins (1.2.16-0sci11u1) scibian11; urgency=medium
 
   [ Kwame Amedodji ]
