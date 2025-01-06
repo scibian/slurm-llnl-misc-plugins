@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.17-0sci12u1) scibian12; urgency=medium
+
+  * Scibian12 rebuild
+
+ -- Thomas HAMEL <thomas-t.hamel@edf.fr>  Mon, 06 Jan 2025 16:00:41 +0100
+
 slurm-llnl-misc-plugins (1.2.17-0sci11u1) scibian11; urgency=medium
 
   * New upstream version 1.2.17
