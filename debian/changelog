@@ -1,3 +1,9 @@
+slurm-llnl-misc-plugins (1.2.17sci13u1) scibian13; urgency=medium
+
+  * Scibian13 rebuild
+
+ -- Farid CHABANE <farid-externe.chabane@edf.fr>  Sat, 31 Jan 2026 22:05:01 +0100
+
 slurm-llnl-misc-plugins (1.2.17-0sci12u1) scibian12; urgency=medium
 
   * Scibian12 rebuild
